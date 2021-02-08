@@ -26,6 +26,4 @@ public class SoftAssertionsTest {
         // проверяем что есть пример кода для JUnit5
         $(".markdown-body").shouldHave(text("Using JUnit5 extend test class:"));
     }
-
-
 }
